@@ -10,7 +10,8 @@ Mod menu developed using Bepinex Config Manager, C#, and .NET
 
 ## To install the mod:
 1. **Download the Bepinex Config Manager**
-  - This mod requires Windows x64 (https://github.com/BepInEx/BepInEx/releases)
+  - This mod requires Windows x64
+  - Download the Bepinex Config folder (the code files are not needed)
   
 2. **Install Bepinex**
   - Simply drag and drop the Bepinex Config folder into the root of your game (for example C:\Program Files (x86)\Steam\steamapps\common\TCG Card Shop Simulator)
