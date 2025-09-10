@@ -14,7 +14,7 @@ Mod menu developed using Bepinex Config Manager, C#, and .NET
 - Download the [BepInEx.with.Configuration.Manager](https://github.com/bhornick09/TCG-Card-Shop-Simulator-Mod-Menu/releases/latest) zip (preloaded with mod)
   
 2. **Install Bepinex**
-- Simply drag and drop the Bepinex Config folder into the root of your game (for example C:\Program Files (x86)\Steam\steamapps\common\TCG Card Shop Simulator)
+- Simply extract zip contents into the root of your game (for example C:\Program Files (x86)\Steam\steamapps\common\TCG Card Shop Simulator)
   
 3. **Open the Game**
 - When you run the game, a command prompt window should open. If it does not, let the game run for a few seconds and restart the game.
